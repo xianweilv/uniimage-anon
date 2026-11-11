@@ -40,6 +40,15 @@ src/           Core C engine
     hd_tool    Utility CLI (selftest, verify, etc.)
     store_stats  Store statistics
 
+results/       Raw experiment output (JSON)
+  m1_m3.json            Storage comparison (Table 2)
+  q1_dedup.json         Dedup analysis
+  q2_synth.json         Synthesis benchmark (Table 3)
+  q3_ingest_pull.json   Ingest throughput, pull latency
+  q4_modes.json         Incremental/lazy delivery
+  e1_fastbaselines.json Fast compressor comparison
+  ...                   (see file headers for details)
+
 scripts/       Experiment scripts
   pull_dataset    Dataset definition and pull
   layer_index     Build layer index from pulled images
