@@ -1,0 +1,55 @@
+{
+"subset_layers": 150,
+"tar_mb": 8729.980416,
+"comp_mb": 3431.376064,
+"variants": {
+"synth": {
+"n_ok": 125,
+"n": 150,
+"median_mbps": 71.6,
+"byte_weighted_mbps": 90.01603268876765,
+"rel_size_byteweighted": 1.0517951285321494,
+"all_verify": false
+},
+"b4-z6": {
+"n_ok": 125,
+"n": 150,
+"median_mbps": 23.8,
+"byte_weighted_mbps": 26.46115389466515,
+"rel_size_byteweighted": 0.9846644140738471,
+"all_verify": true
+},
+"b4-z1": {
+"n_ok": 125,
+"n": 150,
+"median_mbps": 62.0,
+"byte_weighted_mbps": 70.46077123299455,
+"rel_size_byteweighted": 1.0698993391395766,
+"all_verify": true
+},
+"b4-ld1": {
+"n_ok": 125,
+"n": 150,
+"median_mbps": 129.2,
+"byte_weighted_mbps": 152.23715602935317,
+"rel_size_byteweighted": 1.0462936763856634,
+"all_verify": true
+},
+"b4-ld6": {
+"n_ok": 125,
+"n": 150,
+"median_mbps": 67.8,
+"byte_weighted_mbps": 77.90857681676991,
+"rel_size_byteweighted": 0.9734623178879025,
+"all_verify": true
+},
+"b4-ld12": {
+"n_ok": 125,
+"n": 150,
+"median_mbps": 4.2,
+"byte_weighted_mbps": 4.828259640775593,
+"rel_size_byteweighted": 0.944117655897304,
+"all_verify": true
+}
+}
+}

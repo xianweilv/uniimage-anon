@@ -1,0 +1,2711 @@
+{
+"rows": [
+{
+"image": "ai__nvidia_cuda__11.8.0-runtime-user22.04",
+"class": "ai",
+"n_files": 7,
+"clen_bytes": 2798,
+"t_range_s": 0.035111920000000005,
+"t_coal_s": 0.01011192
+},
+{
+"image": "ai__nvidia_cuda__12.0.0-runtime-user22.04",
+"class": "ai",
+"n_files": 7,
+"clen_bytes": 2813,
+"t_range_s": 0.03511252,
+"t_coal_s": 0.01011252
+},
+{
+"image": "ai__nvidia_cuda__12.2.0-runtime-user22.04",
+"class": "ai",
+"n_files": 7,
+"clen_bytes": 2795,
+"t_range_s": 0.035111800000000006,
+"t_coal_s": 0.0101118
+},
+{
+"image": "ai__nvidia_cuda__12.4.0-runtime-user22.04",
+"class": "ai",
+"n_files": 7,
+"clen_bytes": 2825,
+"t_range_s": 0.035113000000000005,
+"t_coal_s": 0.010113
+},
+{
+"image": "ai__nvidia_cuda__12.6.0-runtime-user22.04",
+"class": "ai",
+"n_files": 7,
+"clen_bytes": 2826,
+"t_range_s": 0.035113040000000005,
+"t_coal_s": 0.01011304
+},
+{
+"image": "ai__nvidia_cuda__12.8.0-runtime-user22.04",
+"class": "ai",
+"n_files": 7,
+"clen_bytes": 2864,
+"t_range_s": 0.03511456,
+"t_coal_s": 0.01011456
+},
+{
+"image": "ai__nvidia_cuda__13.0.0-runtime-user24.04",
+"class": "ai",
+"n_files": 7,
+"clen_bytes": 2703,
+"t_range_s": 0.03510812000000001,
+"t_coal_s": 0.01010812
+},
+{
+"image": "ai__pytorch_pytorch__2.1.0-cuda11.8-cudnn8-runtime",
+"class": "ai",
+"n_files": 7,
+"clen_bytes": 2534,
+"t_range_s": 0.035101360000000005,
+"t_coal_s": 0.01010136
+},
+{
+"image": "ai__pytorch_pytorch__2.3.1-cuda12.1-cudnn8-runtime",
+"class": "ai",
+"n_files": 7,
+"clen_bytes": 2449,
+"t_range_s": 0.035097960000000004,
+"t_coal_s": 0.01009796
+},
+{
+"image": "ai__pytorch_pytorch__2.5.1-cuda12.4-cudnn9-runtime",
+"class": "ai",
+"n_files": 7,
+"clen_bytes": 2449,
+"t_range_s": 0.035097960000000004,
+"t_coal_s": 0.01009796
+},
+{
+"image": "ai__pytorch_pytorch__2.7.1-cuda12.6-cudnn9-runtime",
+"class": "ai",
+"n_files": 7,
+"clen_bytes": 2449,
+"t_range_s": 0.035097960000000004,
+"t_coal_s": 0.01009796
+},
+{
+"image": "ai__pytorch_pytorch__2.9.0-cuda12.8-cudnn9-runtime",
+"class": "ai",
+"n_files": 7,
+"clen_bytes": 2450,
+"t_range_s": 0.035098000000000004,
+"t_coal_s": 0.010098
+},
+{
+"image": "ai__tensorflow_tensorflow__2.13.0-gpu",
+"class": "ai",
+"n_files": 9,
+"clen_bytes": 4844,
+"t_range_s": 0.04519376,
+"t_coal_s": 0.01019376
+},
+{
+"image": "ai__tensorflow_tensorflow__2.15.0-gpu",
+"class": "ai",
+"n_files": 7,
+"clen_bytes": 4318,
+"t_range_s": 0.035172720000000005,
+"t_coal_s": 0.01017272
+},
+{
+"image": "ai__tensorflow_tensorflow__2.17.0-gpu",
+"class": "ai",
+"n_files": 7,
+"clen_bytes": 4318,
+"t_range_s": 0.035172720000000005,
+"t_coal_s": 0.01017272
+},
+{
+"image": "ai__tensorflow_tensorflow__2.19.0-gpu",
+"class": "ai",
+"n_files": 9,
+"clen_bytes": 4442,
+"t_range_s": 0.04517768,
+"t_coal_s": 0.01017768
+},
+{
+"image": "app__apache_kafka__3.7.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 1144,
+"t_range_s": 0.02504576,
+"t_coal_s": 0.01004576
+},
+{
+"image": "app__apache_spark__3.4.1",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 4412,
+"t_range_s": 0.04517648,
+"t_coal_s": 0.01017648
+},
+{
+"image": "app__apache_spark__3.4.2",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 4412,
+"t_range_s": 0.04517648,
+"t_coal_s": 0.01017648
+},
+{
+"image": "app__apache_spark__3.5.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 4412,
+"t_range_s": 0.04517648,
+"t_coal_s": 0.01017648
+},
+{
+"image": "app__apache_spark__3.5.1",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 4426,
+"t_range_s": 0.04517704,
+"t_coal_s": 0.01017704
+},
+{
+"image": "app__apache_spark__3.5.2",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 4448,
+"t_range_s": 0.045177919999999996,
+"t_coal_s": 0.01017792
+},
+{
+"image": "app__gitlab_gitlab-ce__16.10.0-ce.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2686,
+"t_range_s": 0.04510744,
+"t_coal_s": 0.01010744
+},
+{
+"image": "app__gitlab_gitlab-ce__16.11.0-ce.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2686,
+"t_range_s": 0.04510744,
+"t_coal_s": 0.01010744
+},
+{
+"image": "app__gitlab_gitlab-ce__16.9.0-ce.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2686,
+"t_range_s": 0.04510744,
+"t_coal_s": 0.01010744
+},
+{
+"image": "app__gitlab_gitlab-ce__17.0.0-ce.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2700,
+"t_range_s": 0.045107999999999995,
+"t_coal_s": 0.010108
+},
+{
+"image": "app__gitlab_gitlab-ce__17.1.0-ce.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2699,
+"t_range_s": 0.045107959999999996,
+"t_coal_s": 0.010107960000000001
+},
+{
+"image": "app__gitlab_gitlab-ce__17.2.0-ce.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2730,
+"t_range_s": 0.045109199999999995,
+"t_coal_s": 0.0101092
+},
+{
+"image": "app__gitlab_gitlab-ce__17.3.0-ce.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2730,
+"t_range_s": 0.045109199999999995,
+"t_coal_s": 0.0101092
+},
+{
+"image": "app__gitlab_gitlab-ce__17.4.0-ce.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2730,
+"t_range_s": 0.045109199999999995,
+"t_coal_s": 0.0101092
+},
+{
+"image": "app__gitlab_gitlab-ce__17.5.0-ce.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2730,
+"t_range_s": 0.045109199999999995,
+"t_coal_s": 0.0101092
+},
+{
+"image": "app__gitlab_gitlab-ce__17.6.0-ce.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2730,
+"t_range_s": 0.045109199999999995,
+"t_coal_s": 0.0101092
+},
+{
+"image": "app__grafana_grafana__10.0.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 1044,
+"t_range_s": 0.02504176,
+"t_coal_s": 0.01004176
+},
+{
+"image": "app__grafana_grafana__10.4.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 1044,
+"t_range_s": 0.02504176,
+"t_coal_s": 0.01004176
+},
+{
+"image": "app__grafana_grafana__11.0.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 1044,
+"t_range_s": 0.02504176,
+"t_coal_s": 0.01004176
+},
+{
+"image": "app__grafana_grafana__11.1.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 1044,
+"t_range_s": 0.02504176,
+"t_coal_s": 0.01004176
+},
+{
+"image": "app__grafana_grafana__11.3.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 792,
+"t_range_s": 0.02503168,
+"t_coal_s": 0.01003168
+},
+{
+"image": "app__grafana_grafana__11.5.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 792,
+"t_range_s": 0.02503168,
+"t_coal_s": 0.01003168
+},
+{
+"image": "app__grafana_grafana__9.5.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 1044,
+"t_range_s": 0.02504176,
+"t_coal_s": 0.01004176
+},
+{
+"image": "app__library_cassandra__4.0",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2498,
+"t_range_s": 0.040099920000000004,
+"t_coal_s": 0.01009992
+},
+{
+"image": "app__library_cassandra__4.1",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2498,
+"t_range_s": 0.040099920000000004,
+"t_coal_s": 0.01009992
+},
+{
+"image": "app__library_elasticsearch__8.12.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2734,
+"t_range_s": 0.035109360000000006,
+"t_coal_s": 0.01010936
+},
+{
+"image": "app__library_elasticsearch__8.13.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2734,
+"t_range_s": 0.035109360000000006,
+"t_coal_s": 0.01010936
+},
+{
+"image": "app__library_elasticsearch__8.14.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2734,
+"t_range_s": 0.035109360000000006,
+"t_coal_s": 0.01010936
+},
+{
+"image": "app__library_elasticsearch__8.15.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2734,
+"t_range_s": 0.035109360000000006,
+"t_coal_s": 0.01010936
+},
+{
+"image": "app__library_elasticsearch__8.16.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2734,
+"t_range_s": 0.035109360000000006,
+"t_coal_s": 0.01010936
+},
+{
+"image": "app__library_elasticsearch__8.17.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2734,
+"t_range_s": 0.035109360000000006,
+"t_coal_s": 0.01010936
+},
+{
+"image": "app__library_elasticsearch__8.18.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2734,
+"t_range_s": 0.035109360000000006,
+"t_coal_s": 0.01010936
+},
+{
+"image": "app__library_elasticsearch__8.19.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2359,
+"t_range_s": 0.035094360000000005,
+"t_coal_s": 0.01009436
+},
+{
+"image": "app__library_influxdb__2.7",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2505,
+"t_range_s": 0.0401002,
+"t_coal_s": 0.0101002
+},
+{
+"image": "app__library_jetty__11-jdk17",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 3143,
+"t_range_s": 0.04512572,
+"t_coal_s": 0.01012572
+},
+{
+"image": "app__library_jetty__11.0-jdk17",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 3143,
+"t_range_s": 0.04512572,
+"t_coal_s": 0.01012572
+},
+{
+"image": "app__library_jetty__12-jdk17",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3140,
+"t_range_s": 0.0401256,
+"t_coal_s": 0.0101256
+},
+{
+"image": "app__library_joomla__5.0",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3982,
+"t_range_s": 0.04015928,
+"t_coal_s": 0.01015928
+},
+{
+"image": "app__library_joomla__5.1",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3982,
+"t_range_s": 0.04015928,
+"t_coal_s": 0.01015928
+},
+{
+"image": "app__library_kibana__8.11.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2903,
+"t_range_s": 0.03511612,
+"t_coal_s": 0.010116120000000001
+},
+{
+"image": "app__library_kibana__8.12.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2903,
+"t_range_s": 0.03511612,
+"t_coal_s": 0.010116120000000001
+},
+{
+"image": "app__library_kibana__8.14.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2903,
+"t_range_s": 0.03511612,
+"t_coal_s": 0.010116120000000001
+},
+{
+"image": "app__library_kibana__8.15.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2903,
+"t_range_s": 0.03511612,
+"t_coal_s": 0.010116120000000001
+},
+{
+"image": "app__library_kibana__8.16.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2903,
+"t_range_s": 0.03511612,
+"t_coal_s": 0.010116120000000001
+},
+{
+"image": "app__library_kibana__8.17.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2903,
+"t_range_s": 0.03511612,
+"t_coal_s": 0.010116120000000001
+},
+{
+"image": "app__library_kibana__8.18.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2903,
+"t_range_s": 0.03511612,
+"t_coal_s": 0.010116120000000001
+},
+{
+"image": "app__library_kibana__8.19.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2549,
+"t_range_s": 0.03510196,
+"t_coal_s": 0.01010196
+},
+{
+"image": "app__library_logstash__8.12.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2704,
+"t_range_s": 0.035108160000000006,
+"t_coal_s": 0.01010816
+},
+{
+"image": "app__library_logstash__8.13.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2704,
+"t_range_s": 0.035108160000000006,
+"t_coal_s": 0.01010816
+},
+{
+"image": "app__library_logstash__8.15.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2704,
+"t_range_s": 0.035108160000000006,
+"t_coal_s": 0.01010816
+},
+{
+"image": "app__library_logstash__8.16.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2704,
+"t_range_s": 0.035108160000000006,
+"t_coal_s": 0.01010816
+},
+{
+"image": "app__library_logstash__8.17.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2704,
+"t_range_s": 0.035108160000000006,
+"t_coal_s": 0.01010816
+},
+{
+"image": "app__library_memcached__1.6.20",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2413,
+"t_range_s": 0.040096520000000004,
+"t_coal_s": 0.01009652
+},
+{
+"image": "app__library_memcached__1.6.21",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2419,
+"t_range_s": 0.04009676,
+"t_coal_s": 0.01009676
+},
+{
+"image": "app__library_memcached__1.6.22",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2419,
+"t_range_s": 0.04009676,
+"t_coal_s": 0.01009676
+},
+{
+"image": "app__library_memcached__1.6.23",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2419,
+"t_range_s": 0.04009676,
+"t_coal_s": 0.01009676
+},
+{
+"image": "app__library_memcached__1.6.24",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2419,
+"t_range_s": 0.04009676,
+"t_coal_s": 0.01009676
+},
+{
+"image": "app__library_memcached__1.6.25",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2419,
+"t_range_s": 0.04009676,
+"t_coal_s": 0.01009676
+},
+{
+"image": "app__library_memcached__1.6.26",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2355,
+"t_range_s": 0.0450942,
+"t_coal_s": 0.0100942
+},
+{
+"image": "app__library_memcached__1.6.27",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2355,
+"t_range_s": 0.0450942,
+"t_coal_s": 0.0100942
+},
+{
+"image": "app__library_memcached__1.6.28",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2355,
+"t_range_s": 0.0450942,
+"t_coal_s": 0.0100942
+},
+{
+"image": "app__library_mongo__5.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2817,
+"t_range_s": 0.045112679999999995,
+"t_coal_s": 0.01011268
+},
+{
+"image": "app__library_mongo__6.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2547,
+"t_range_s": 0.04510188,
+"t_coal_s": 0.01010188
+},
+{
+"image": "app__library_mongo__7.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2547,
+"t_range_s": 0.04510188,
+"t_coal_s": 0.01010188
+},
+{
+"image": "app__library_mongo__7.0.12",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2546,
+"t_range_s": 0.04510184,
+"t_coal_s": 0.01010184
+},
+{
+"image": "app__library_mongo__7.0.14",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2546,
+"t_range_s": 0.04510184,
+"t_coal_s": 0.01010184
+},
+{
+"image": "app__library_mongo__7.0.8",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2545,
+"t_range_s": 0.0451018,
+"t_coal_s": 0.010101800000000001
+},
+{
+"image": "app__library_mongo__8.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2482,
+"t_range_s": 0.04509928,
+"t_coal_s": 0.01009928
+},
+{
+"image": "app__library_mongo__8.0.3",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2482,
+"t_range_s": 0.04509928,
+"t_coal_s": 0.01009928
+},
+{
+"image": "app__library_mysql__8.0.30",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3438,
+"t_range_s": 0.030137519999999998,
+"t_coal_s": 0.01013752
+},
+{
+"image": "app__library_mysql__8.0.31",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3438,
+"t_range_s": 0.030137519999999998,
+"t_coal_s": 0.01013752
+},
+{
+"image": "app__library_mysql__8.0.32",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3438,
+"t_range_s": 0.030137519999999998,
+"t_coal_s": 0.01013752
+},
+{
+"image": "app__library_mysql__8.0.33",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3438,
+"t_range_s": 0.030137519999999998,
+"t_coal_s": 0.01013752
+},
+{
+"image": "app__library_mysql__8.0.34",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3438,
+"t_range_s": 0.030137519999999998,
+"t_coal_s": 0.01013752
+},
+{
+"image": "app__library_mysql__8.0.35",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3438,
+"t_range_s": 0.030137519999999998,
+"t_coal_s": 0.01013752
+},
+{
+"image": "app__library_mysql__8.0.36",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3438,
+"t_range_s": 0.030137519999999998,
+"t_coal_s": 0.01013752
+},
+{
+"image": "app__library_mysql__8.0.37",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3460,
+"t_range_s": 0.0301384,
+"t_coal_s": 0.0101384
+},
+{
+"image": "app__library_mysql__8.0.38",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3460,
+"t_range_s": 0.0301384,
+"t_coal_s": 0.0101384
+},
+{
+"image": "app__library_mysql__8.0.39",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3460,
+"t_range_s": 0.0301384,
+"t_coal_s": 0.0101384
+},
+{
+"image": "app__library_mysql__8.0.40",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3460,
+"t_range_s": 0.0301384,
+"t_coal_s": 0.0101384
+},
+{
+"image": "app__library_mysql__8.4.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 8608,
+"t_range_s": 0.035344320000000005,
+"t_coal_s": 0.01034432
+},
+{
+"image": "app__library_mysql__8.4.1",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 8608,
+"t_range_s": 0.035344320000000005,
+"t_coal_s": 0.01034432
+},
+{
+"image": "app__library_mysql__8.4.2",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3460,
+"t_range_s": 0.0301384,
+"t_coal_s": 0.0101384
+},
+{
+"image": "app__library_mysql__8.4.3",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3460,
+"t_range_s": 0.0301384,
+"t_coal_s": 0.0101384
+},
+{
+"image": "app__library_mysql__9.0.0",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3460,
+"t_range_s": 0.0301384,
+"t_coal_s": 0.0101384
+},
+{
+"image": "app__library_mysql__9.1.0",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3460,
+"t_range_s": 0.0301384,
+"t_coal_s": 0.0101384
+},
+{
+"image": "app__library_mysql__9.2.0",
+"class": "app",
+"n_files": 6,
+"clen_bytes": 3393,
+"t_range_s": 0.030135719999999998,
+"t_coal_s": 0.01013572
+},
+{
+"image": "app__library_nginx__1.25.0",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3065,
+"t_range_s": 0.0401226,
+"t_coal_s": 0.0101226
+},
+{
+"image": "app__library_nginx__1.25.1",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3861,
+"t_range_s": 0.04015444,
+"t_coal_s": 0.01015444
+},
+{
+"image": "app__library_nginx__1.25.2",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3847,
+"t_range_s": 0.04015388,
+"t_coal_s": 0.01015388
+},
+{
+"image": "app__library_nginx__1.25.3",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3847,
+"t_range_s": 0.04015388,
+"t_coal_s": 0.01015388
+},
+{
+"image": "app__library_nginx__1.25.4",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3847,
+"t_range_s": 0.04015388,
+"t_coal_s": 0.01015388
+},
+{
+"image": "app__library_nginx__1.25.5",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3847,
+"t_range_s": 0.04015388,
+"t_coal_s": 0.01015388
+},
+{
+"image": "app__library_nginx__1.26.0",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3847,
+"t_range_s": 0.04015388,
+"t_coal_s": 0.01015388
+},
+{
+"image": "app__library_nginx__1.26.1",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3847,
+"t_range_s": 0.04015388,
+"t_coal_s": 0.01015388
+},
+{
+"image": "app__library_nginx__1.26.2",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3847,
+"t_range_s": 0.04015388,
+"t_coal_s": 0.01015388
+},
+{
+"image": "app__library_nginx__1.26.3",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3848,
+"t_range_s": 0.04015392,
+"t_coal_s": 0.01015392
+},
+{
+"image": "app__library_nginx__1.27.0",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3847,
+"t_range_s": 0.04015388,
+"t_coal_s": 0.01015388
+},
+{
+"image": "app__library_postgres__15.0",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2964,
+"t_range_s": 0.04011856,
+"t_coal_s": 0.01011856
+},
+{
+"image": "app__library_postgres__15.1",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2964,
+"t_range_s": 0.04011856,
+"t_coal_s": 0.01011856
+},
+{
+"image": "app__library_postgres__15.2",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2964,
+"t_range_s": 0.04011856,
+"t_coal_s": 0.01011856
+},
+{
+"image": "app__library_postgres__15.3",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2646,
+"t_range_s": 0.040105840000000004,
+"t_coal_s": 0.01010584
+},
+{
+"image": "app__library_postgres__15.4",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2646,
+"t_range_s": 0.040105840000000004,
+"t_coal_s": 0.01010584
+},
+{
+"image": "app__library_postgres__15.5",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2646,
+"t_range_s": 0.040105840000000004,
+"t_coal_s": 0.01010584
+},
+{
+"image": "app__library_postgres__15.6",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2646,
+"t_range_s": 0.040105840000000004,
+"t_coal_s": 0.01010584
+},
+{
+"image": "app__library_postgres__15.7",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2646,
+"t_range_s": 0.040105840000000004,
+"t_coal_s": 0.01010584
+},
+{
+"image": "app__library_postgres__15.8",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2646,
+"t_range_s": 0.040105840000000004,
+"t_coal_s": 0.01010584
+},
+{
+"image": "app__library_postgres__16.0",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2646,
+"t_range_s": 0.040105840000000004,
+"t_coal_s": 0.01010584
+},
+{
+"image": "app__library_postgres__16.1",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2646,
+"t_range_s": 0.040105840000000004,
+"t_coal_s": 0.01010584
+},
+{
+"image": "app__library_postgres__16.2",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2646,
+"t_range_s": 0.040105840000000004,
+"t_coal_s": 0.01010584
+},
+{
+"image": "app__library_postgres__16.3",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2646,
+"t_range_s": 0.040105840000000004,
+"t_coal_s": 0.01010584
+},
+{
+"image": "app__library_postgres__16.4",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2646,
+"t_range_s": 0.040105840000000004,
+"t_coal_s": 0.01010584
+},
+{
+"image": "app__library_postgres__17.0",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 7355,
+"t_range_s": 0.0452942,
+"t_coal_s": 0.0102942
+},
+{
+"image": "app__library_postgres__17.1",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 7355,
+"t_range_s": 0.0452942,
+"t_coal_s": 0.0102942
+},
+{
+"image": "app__library_postgres__17.2",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 7351,
+"t_range_s": 0.04529404,
+"t_coal_s": 0.01029404
+},
+{
+"image": "app__library_postgres__17.3",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 7342,
+"t_range_s": 0.045293679999999996,
+"t_coal_s": 0.01029368
+},
+{
+"image": "app__library_postgres__17.4",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2639,
+"t_range_s": 0.04010556,
+"t_coal_s": 0.01010556
+},
+{
+"image": "app__library_postgres__17.5",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2600,
+"t_range_s": 0.035104,
+"t_coal_s": 0.010104
+},
+{
+"image": "app__library_postgres__18.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2630,
+"t_range_s": 0.0351052,
+"t_coal_s": 0.0101052
+},
+{
+"image": "app__library_postgres__18.4",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 2636,
+"t_range_s": 0.03510544,
+"t_coal_s": 0.01010544
+},
+{
+"image": "app__library_redis__7.2.0",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2389,
+"t_range_s": 0.04009556,
+"t_coal_s": 0.01009556
+},
+{
+"image": "app__library_redis__7.2.1",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2388,
+"t_range_s": 0.04009552,
+"t_coal_s": 0.01009552
+},
+{
+"image": "app__library_redis__7.2.2",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2388,
+"t_range_s": 0.04009552,
+"t_coal_s": 0.01009552
+},
+{
+"image": "app__library_redis__7.2.3",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2388,
+"t_range_s": 0.04009552,
+"t_coal_s": 0.01009552
+},
+{
+"image": "app__library_redis__7.2.4",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2186,
+"t_range_s": 0.04008744,
+"t_coal_s": 0.01008744
+},
+{
+"image": "app__library_redis__7.2.5",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2185,
+"t_range_s": 0.0400874,
+"t_coal_s": 0.0100874
+},
+{
+"image": "app__library_redis__7.4.0",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2185,
+"t_range_s": 0.0400874,
+"t_coal_s": 0.0100874
+},
+{
+"image": "app__library_redis__7.4.1",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2186,
+"t_range_s": 0.04008744,
+"t_coal_s": 0.01008744
+},
+{
+"image": "app__library_redis__7.4.2",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2186,
+"t_range_s": 0.04008744,
+"t_coal_s": 0.01008744
+},
+{
+"image": "app__library_redis__8.8.0",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3993,
+"t_range_s": 0.04015972,
+"t_coal_s": 0.01015972
+},
+{
+"image": "app__library_redis__8.8.1",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3993,
+"t_range_s": 0.04015972,
+"t_coal_s": 0.01015972
+},
+{
+"image": "app__library_redis__8.8.2",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3993,
+"t_range_s": 0.04015972,
+"t_coal_s": 0.01015972
+},
+{
+"image": "app__library_redis__8.8.3",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3993,
+"t_range_s": 0.04015972,
+"t_coal_s": 0.01015972
+},
+{
+"image": "app__library_sonarqube__10.0-community",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 3160,
+"t_range_s": 0.0451264,
+"t_coal_s": 0.0101264
+},
+{
+"image": "app__library_sonarqube__10.3-community",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 3160,
+"t_range_s": 0.0451264,
+"t_coal_s": 0.0101264
+},
+{
+"image": "app__library_sonarqube__10.4-community",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 3092,
+"t_range_s": 0.04512368,
+"t_coal_s": 0.01012368
+},
+{
+"image": "app__library_sonarqube__10.5-community",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 3092,
+"t_range_s": 0.04512368,
+"t_coal_s": 0.01012368
+},
+{
+"image": "app__library_sonarqube__10.7-community",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 3092,
+"t_range_s": 0.04512368,
+"t_coal_s": 0.01012368
+},
+{
+"image": "app__library_sonarqube__9.9-community",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 3102,
+"t_range_s": 0.04512408,
+"t_coal_s": 0.01012408
+},
+{
+"image": "app__library_tomcat__10.1-jdk17",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3123,
+"t_range_s": 0.04012492,
+"t_coal_s": 0.01012492
+},
+{
+"image": "app__library_tomcat__10.1.30-jdk17",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 3069,
+"t_range_s": 0.04512276,
+"t_coal_s": 0.01012276
+},
+{
+"image": "app__library_tomcat__11.0-jdk17",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3123,
+"t_range_s": 0.04012492,
+"t_coal_s": 0.01012492
+},
+{
+"image": "app__library_traefik__v2.10.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 1101,
+"t_range_s": 0.02504404,
+"t_coal_s": 0.01004404
+},
+{
+"image": "app__library_traefik__v2.10.1",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 1101,
+"t_range_s": 0.02504404,
+"t_coal_s": 0.01004404
+},
+{
+"image": "app__library_traefik__v2.11.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 1101,
+"t_range_s": 0.02504404,
+"t_coal_s": 0.01004404
+},
+{
+"image": "app__library_traefik__v2.11.1",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 1101,
+"t_range_s": 0.02504404,
+"t_coal_s": 0.01004404
+},
+{
+"image": "app__library_traefik__v3.0.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 1101,
+"t_range_s": 0.02504404,
+"t_coal_s": 0.01004404
+},
+{
+"image": "app__library_traefik__v3.1.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 852,
+"t_range_s": 0.02503408,
+"t_coal_s": 0.01003408
+},
+{
+"image": "app__library_traefik__v3.2.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 852,
+"t_range_s": 0.02503408,
+"t_coal_s": 0.01003408
+},
+{
+"image": "app__library_traefik__v3.3.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 852,
+"t_range_s": 0.02503408,
+"t_coal_s": 0.01003408
+},
+{
+"image": "app__library_traefik__v3.4.0",
+"class": "app",
+"n_files": 5,
+"clen_bytes": 852,
+"t_range_s": 0.02503408,
+"t_coal_s": 0.01003408
+},
+{
+"image": "app__library_wordpress__6.4-php8.2",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3944,
+"t_range_s": 0.04015776,
+"t_coal_s": 0.01015776
+},
+{
+"image": "app__library_wordpress__6.5-php8.2",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 3719,
+"t_range_s": 0.04014876,
+"t_coal_s": 0.01014876
+},
+{
+"image": "app__library_wordpress__6.6-php8.2",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 4777,
+"t_range_s": 0.040191080000000004,
+"t_coal_s": 0.01019108
+},
+{
+"image": "app__library_wordpress__6.7-php8.2",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 4777,
+"t_range_s": 0.040191080000000004,
+"t_coal_s": 0.01019108
+},
+{
+"image": "app__neo4j__5.10",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2640,
+"t_range_s": 0.0401056,
+"t_coal_s": 0.010105600000000001
+},
+{
+"image": "app__neo4j__5.15",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2640,
+"t_range_s": 0.0401056,
+"t_coal_s": 0.010105600000000001
+},
+{
+"image": "app__neo4j__5.20-community",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2640,
+"t_range_s": 0.0401056,
+"t_coal_s": 0.010105600000000001
+},
+{
+"image": "app__neo4j__5.25-community",
+"class": "app",
+"n_files": 8,
+"clen_bytes": 2640,
+"t_range_s": 0.0401056,
+"t_coal_s": 0.010105600000000001
+},
+{
+"image": "app__prom_prometheus__v2.48.0",
+"class": "app",
+"n_files": 4,
+"clen_bytes": 708,
+"t_range_s": 0.02002832,
+"t_coal_s": 0.01002832
+},
+{
+"image": "app__prom_prometheus__v2.50.0",
+"class": "app",
+"n_files": 4,
+"clen_bytes": 708,
+"t_range_s": 0.02002832,
+"t_coal_s": 0.01002832
+},
+{
+"image": "app__prom_prometheus__v2.51.0",
+"class": "app",
+"n_files": 4,
+"clen_bytes": 708,
+"t_range_s": 0.02002832,
+"t_coal_s": 0.01002832
+},
+{
+"image": "app__prom_prometheus__v2.53.0",
+"class": "app",
+"n_files": 4,
+"clen_bytes": 708,
+"t_range_s": 0.02002832,
+"t_coal_s": 0.01002832
+},
+{
+"image": "app__prom_prometheus__v3.1.0",
+"class": "app",
+"n_files": 4,
+"clen_bytes": 708,
+"t_range_s": 0.02002832,
+"t_coal_s": 0.01002832
+},
+{
+"image": "app__prom_prometheus__v3.2.0",
+"class": "app",
+"n_files": 4,
+"clen_bytes": 708,
+"t_range_s": 0.02002832,
+"t_coal_s": 0.01002832
+},
+{
+"image": "app__rabbitmq__3.12-management",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2467,
+"t_range_s": 0.045098679999999995,
+"t_coal_s": 0.01009868
+},
+{
+"image": "app__rabbitmq__3.12.13-management",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2467,
+"t_range_s": 0.045098679999999995,
+"t_coal_s": 0.01009868
+},
+{
+"image": "app__rabbitmq__3.13-management",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2326,
+"t_range_s": 0.04509304,
+"t_coal_s": 0.010093040000000001
+},
+{
+"image": "app__rabbitmq__3.13.7-management",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2326,
+"t_range_s": 0.04509304,
+"t_coal_s": 0.010093040000000001
+},
+{
+"image": "app__rabbitmq__4.0-management",
+"class": "app",
+"n_files": 9,
+"clen_bytes": 2264,
+"t_range_s": 0.04509056,
+"t_coal_s": 0.01009056
+},
+{
+"image": "app__redmine__5.1",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 3598,
+"t_range_s": 0.03514392,
+"t_coal_s": 0.01014392
+},
+{
+"image": "app__redmine__6.0",
+"class": "app",
+"n_files": 7,
+"clen_bytes": 3559,
+"t_range_s": 0.035142360000000004,
+"t_coal_s": 0.01014236
+},
+{
+"image": "base__library_alpine__3.18.0",
+"class": "base",
+"n_files": 5,
+"clen_bytes": 1101,
+"t_range_s": 0.02504404,
+"t_coal_s": 0.01004404
+},
+{
+"image": "base__library_alpine__3.19.0",
+"class": "base",
+"n_files": 5,
+"clen_bytes": 1101,
+"t_range_s": 0.02504404,
+"t_coal_s": 0.01004404
+},
+{
+"image": "base__library_alpine__3.19.1",
+"class": "base",
+"n_files": 5,
+"clen_bytes": 1101,
+"t_range_s": 0.02504404,
+"t_coal_s": 0.01004404
+},
+{
+"image": "base__library_alpine__3.20.0",
+"class": "base",
+"n_files": 5,
+"clen_bytes": 852,
+"t_range_s": 0.02503408,
+"t_coal_s": 0.01003408
+},
+{
+"image": "base__library_alpine__3.20.1",
+"class": "base",
+"n_files": 5,
+"clen_bytes": 852,
+"t_range_s": 0.02503408,
+"t_coal_s": 0.01003408
+},
+{
+"image": "base__library_alpine__3.21.0",
+"class": "base",
+"n_files": 6,
+"clen_bytes": 63387,
+"t_range_s": 0.03253548,
+"t_coal_s": 0.01253548
+},
+{
+"image": "base__library_alpine__3.21.1",
+"class": "base",
+"n_files": 6,
+"clen_bytes": 63387,
+"t_range_s": 0.03253548,
+"t_coal_s": 0.01253548
+},
+{
+"image": "base__library_alpine__3.21.2",
+"class": "base",
+"n_files": 6,
+"clen_bytes": 63387,
+"t_range_s": 0.03253548,
+"t_coal_s": 0.01253548
+},
+{
+"image": "base__library_alpine__3.21.3",
+"class": "base",
+"n_files": 6,
+"clen_bytes": 63387,
+"t_range_s": 0.03253548,
+"t_coal_s": 0.01253548
+},
+{
+"image": "base__library_amazoncorretto__17",
+"class": "base",
+"n_files": 6,
+"clen_bytes": 3777,
+"t_range_s": 0.03015108,
+"t_coal_s": 0.01015108
+},
+{
+"image": "base__library_amazoncorretto__21",
+"class": "base",
+"n_files": 6,
+"clen_bytes": 3777,
+"t_range_s": 0.03015108,
+"t_coal_s": 0.01015108
+},
+{
+"image": "base__library_buildpack-deps__bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_buildpack-deps__bookworm-curl",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2475,
+"t_range_s": 0.040099,
+"t_coal_s": 0.010099
+},
+{
+"image": "base__library_buildpack-deps__bookworm-scm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2887,
+"t_range_s": 0.04011548,
+"t_coal_s": 0.01011548
+},
+{
+"image": "base__library_buildpack-deps__bullseye",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6189,
+"t_range_s": 0.04024756,
+"t_coal_s": 0.010247560000000001
+},
+{
+"image": "base__library_buildpack-deps__bullseye-curl",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2761,
+"t_range_s": 0.040110440000000004,
+"t_coal_s": 0.01011044
+},
+{
+"image": "base__library_buildpack-deps__bullseye-scm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3299,
+"t_range_s": 0.04013196,
+"t_coal_s": 0.01013196
+},
+{
+"image": "base__library_buildpack-deps__trixie",
+"class": "base",
+"n_files": 7,
+"clen_bytes": 6310,
+"t_range_s": 0.0352524,
+"t_coal_s": 0.0102524
+},
+{
+"image": "base__library_buildpack-deps__trixie-curl",
+"class": "base",
+"n_files": 7,
+"clen_bytes": 2458,
+"t_range_s": 0.03509832,
+"t_coal_s": 0.010098320000000001
+},
+{
+"image": "base__library_busybox__1.35.0",
+"class": "base",
+"n_files": 4,
+"clen_bytes": 708,
+"t_range_s": 0.02002832,
+"t_coal_s": 0.01002832
+},
+{
+"image": "base__library_busybox__1.36.0",
+"class": "base",
+"n_files": 4,
+"clen_bytes": 710,
+"t_range_s": 0.020028400000000002,
+"t_coal_s": 0.0100284
+},
+{
+"image": "base__library_busybox__1.36.1",
+"class": "base",
+"n_files": 4,
+"clen_bytes": 708,
+"t_range_s": 0.02002832,
+"t_coal_s": 0.01002832
+},
+{
+"image": "base__library_busybox__1.37.0",
+"class": "base",
+"n_files": 4,
+"clen_bytes": 708,
+"t_range_s": 0.02002832,
+"t_coal_s": 0.01002832
+},
+{
+"image": "base__library_debian__bookworm",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 611680,
+"t_range_s": 0.0694672,
+"t_coal_s": 0.0344672
+},
+{
+"image": "base__library_debian__bookworm-slim",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 611680,
+"t_range_s": 0.0694672,
+"t_coal_s": 0.0344672
+},
+{
+"image": "base__library_debian__bullseye",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2452,
+"t_range_s": 0.04009808,
+"t_coal_s": 0.01009808
+},
+{
+"image": "base__library_debian__bullseye-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2452,
+"t_range_s": 0.04009808,
+"t_coal_s": 0.01009808
+},
+{
+"image": "base__library_debian__trixie",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 621619,
+"t_range_s": 0.06486476,
+"t_coal_s": 0.03486476
+},
+{
+"image": "base__library_debian__trixie-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 621619,
+"t_range_s": 0.06486476,
+"t_coal_s": 0.03486476
+},
+{
+"image": "base__library_eclipse-temurin__11-jdk-focal",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 3447,
+"t_range_s": 0.04513788,
+"t_coal_s": 0.01013788
+},
+{
+"image": "base__library_eclipse-temurin__11-jdk-jammy",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 3116,
+"t_range_s": 0.04512464,
+"t_coal_s": 0.01012464
+},
+{
+"image": "base__library_eclipse-temurin__17-jdk-focal",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 3489,
+"t_range_s": 0.045139559999999995,
+"t_coal_s": 0.01013956
+},
+{
+"image": "base__library_eclipse-temurin__17-jdk-jammy",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 3174,
+"t_range_s": 0.04512696,
+"t_coal_s": 0.01012696
+},
+{
+"image": "base__library_eclipse-temurin__21-jdk-jammy",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 3183,
+"t_range_s": 0.04512732,
+"t_coal_s": 0.01012732
+},
+{
+"image": "base__library_eclipse-temurin__8-jdk-jammy",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 2662,
+"t_range_s": 0.04510648,
+"t_coal_s": 0.010106480000000001
+},
+{
+"image": "base__library_erlang__24-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2218,
+"t_range_s": 0.04008872,
+"t_coal_s": 0.01008872
+},
+{
+"image": "base__library_erlang__25-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2218,
+"t_range_s": 0.04008872,
+"t_coal_s": 0.01008872
+},
+{
+"image": "base__library_erlang__26-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2218,
+"t_range_s": 0.04008872,
+"t_coal_s": 0.01008872
+},
+{
+"image": "base__library_erlang__27-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2218,
+"t_range_s": 0.04008872,
+"t_coal_s": 0.01008872
+},
+{
+"image": "base__library_gcc__10.5.0-bullseye",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6522,
+"t_range_s": 0.04026088,
+"t_coal_s": 0.01026088
+},
+{
+"image": "base__library_gcc__11-bullseye",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6523,
+"t_range_s": 0.04026092,
+"t_coal_s": 0.01026092
+},
+{
+"image": "base__library_gcc__11.1.0-bullseye",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6492,
+"t_range_s": 0.04025968,
+"t_coal_s": 0.01025968
+},
+{
+"image": "base__library_gcc__11.2.0-bullseye",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6492,
+"t_range_s": 0.04025968,
+"t_coal_s": 0.01025968
+},
+{
+"image": "base__library_gcc__11.3.0-bullseye",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6492,
+"t_range_s": 0.04025968,
+"t_coal_s": 0.01025968
+},
+{
+"image": "base__library_gcc__11.4.0-bullseye",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6523,
+"t_range_s": 0.04026092,
+"t_coal_s": 0.01026092
+},
+{
+"image": "base__library_gcc__12-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6013,
+"t_range_s": 0.04024052,
+"t_coal_s": 0.01024052
+},
+{
+"image": "base__library_gcc__12.1.0-bullseye",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6498,
+"t_range_s": 0.04025992,
+"t_coal_s": 0.01025992
+},
+{
+"image": "base__library_gcc__12.3.0-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6013,
+"t_range_s": 0.04024052,
+"t_coal_s": 0.01024052
+},
+{
+"image": "base__library_gcc__12.4.0-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6014,
+"t_range_s": 0.04024056,
+"t_coal_s": 0.010240560000000001
+},
+{
+"image": "base__library_gcc__13-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6035,
+"t_range_s": 0.040241400000000004,
+"t_coal_s": 0.0102414
+},
+{
+"image": "base__library_gcc__13.2.0-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6035,
+"t_range_s": 0.040241400000000004,
+"t_coal_s": 0.0102414
+},
+{
+"image": "base__library_gcc__13.3.0-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6035,
+"t_range_s": 0.040241400000000004,
+"t_coal_s": 0.0102414
+},
+{
+"image": "base__library_gcc__14-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6032,
+"t_range_s": 0.040241280000000004,
+"t_coal_s": 0.01024128
+},
+{
+"image": "base__library_gcc__14.1.0-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6031,
+"t_range_s": 0.04024124,
+"t_coal_s": 0.01024124
+},
+{
+"image": "base__library_gcc__14.2.0-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6032,
+"t_range_s": 0.040241280000000004,
+"t_coal_s": 0.01024128
+},
+{
+"image": "base__library_gcc__15-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 6033,
+"t_range_s": 0.040241320000000004,
+"t_coal_s": 0.01024132
+},
+{
+"image": "base__library_golang__1.19-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3263,
+"t_range_s": 0.04013052,
+"t_coal_s": 0.01013052
+},
+{
+"image": "base__library_golang__1.20-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3263,
+"t_range_s": 0.04013052,
+"t_coal_s": 0.01013052
+},
+{
+"image": "base__library_golang__1.21-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3263,
+"t_range_s": 0.04013052,
+"t_coal_s": 0.01013052
+},
+{
+"image": "base__library_golang__1.21.3-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3263,
+"t_range_s": 0.04013052,
+"t_coal_s": 0.01013052
+},
+{
+"image": "base__library_golang__1.21.5-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3263,
+"t_range_s": 0.04013052,
+"t_coal_s": 0.01013052
+},
+{
+"image": "base__library_golang__1.22-bookworm",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 612803,
+"t_range_s": 0.06951212,
+"t_coal_s": 0.03451212
+},
+{
+"image": "base__library_golang__1.22.0-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3263,
+"t_range_s": 0.04013052,
+"t_coal_s": 0.01013052
+},
+{
+"image": "base__library_golang__1.22.1-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3263,
+"t_range_s": 0.04013052,
+"t_coal_s": 0.01013052
+},
+{
+"image": "base__library_golang__1.22.2-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3263,
+"t_range_s": 0.04013052,
+"t_coal_s": 0.01013052
+},
+{
+"image": "base__library_golang__1.22.3-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3263,
+"t_range_s": 0.04013052,
+"t_coal_s": 0.01013052
+},
+{
+"image": "base__library_golang__1.23-bookworm",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 612801,
+"t_range_s": 0.06951204,
+"t_coal_s": 0.03451204
+},
+{
+"image": "base__library_golang__1.23.0-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3263,
+"t_range_s": 0.04013052,
+"t_coal_s": 0.01013052
+},
+{
+"image": "base__library_golang__1.23.1-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3263,
+"t_range_s": 0.04013052,
+"t_coal_s": 0.01013052
+},
+{
+"image": "base__library_golang__1.23.3-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3263,
+"t_range_s": 0.04013052,
+"t_coal_s": 0.01013052
+},
+{
+"image": "base__library_golang__1.23.4-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3263,
+"t_range_s": 0.04013052,
+"t_coal_s": 0.01013052
+},
+{
+"image": "base__library_golang__1.24-bookworm",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 612803,
+"t_range_s": 0.06951212,
+"t_coal_s": 0.03451212
+},
+{
+"image": "base__library_golang__1.24.0-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3263,
+"t_range_s": 0.04013052,
+"t_coal_s": 0.01013052
+},
+{
+"image": "base__library_golang__1.24.1-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3264,
+"t_range_s": 0.04013056,
+"t_coal_s": 0.01013056
+},
+{
+"image": "base__library_gradle__7-jdk17",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 3493,
+"t_range_s": 0.04513972,
+"t_coal_s": 0.01013972
+},
+{
+"image": "base__library_gradle__8-jdk17",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 3493,
+"t_range_s": 0.04513972,
+"t_coal_s": 0.01013972
+},
+{
+"image": "base__library_gradle__8-jdk21",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 3507,
+"t_range_s": 0.04514028,
+"t_coal_s": 0.01014028
+},
+{
+"image": "base__library_haskell__9.2-slim-buster",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3968,
+"t_range_s": 0.04015872,
+"t_coal_s": 0.01015872
+},
+{
+"image": "base__library_haskell__9.4-slim-buster",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3968,
+"t_range_s": 0.04015872,
+"t_coal_s": 0.01015872
+},
+{
+"image": "base__library_ibm-semeru-runtimes__open-17-jdk-jammy",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 2546,
+"t_range_s": 0.04510184,
+"t_coal_s": 0.01010184
+},
+{
+"image": "base__library_ibm-semeru-runtimes__open-21-jdk-jammy",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 2546,
+"t_range_s": 0.04510184,
+"t_coal_s": 0.01010184
+},
+{
+"image": "base__library_julia__1.10-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2363,
+"t_range_s": 0.04009452,
+"t_coal_s": 0.010094520000000001
+},
+{
+"image": "base__library_julia__1.11-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2363,
+"t_range_s": 0.04009452,
+"t_coal_s": 0.010094520000000001
+},
+{
+"image": "base__library_julia__1.9-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2362,
+"t_range_s": 0.04009448,
+"t_coal_s": 0.01009448
+},
+{
+"image": "base__library_maven__3.8-eclipse-temurin-11",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 3081,
+"t_range_s": 0.045123239999999995,
+"t_coal_s": 0.01012324
+},
+{
+"image": "base__library_maven__3.9-eclipse-temurin-17",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 3231,
+"t_range_s": 0.04512924,
+"t_coal_s": 0.01012924
+},
+{
+"image": "base__library_maven__3.9-eclipse-temurin-21",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 3239,
+"t_range_s": 0.04512956,
+"t_coal_s": 0.010129560000000001
+},
+{
+"image": "base__library_node__18-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5702,
+"t_range_s": 0.04022808,
+"t_coal_s": 0.01022808
+},
+{
+"image": "base__library_node__18-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2162,
+"t_range_s": 0.04008648,
+"t_coal_s": 0.01008648
+},
+{
+"image": "base__library_node__20-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5702,
+"t_range_s": 0.04022808,
+"t_coal_s": 0.01022808
+},
+{
+"image": "base__library_node__20-slim",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 2442,
+"t_range_s": 0.04509768,
+"t_coal_s": 0.01009768
+},
+{
+"image": "base__library_node__22-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5702,
+"t_range_s": 0.04022808,
+"t_coal_s": 0.01022808
+},
+{
+"image": "base__library_node__22-slim",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 2442,
+"t_range_s": 0.04509768,
+"t_coal_s": 0.01009768
+},
+{
+"image": "base__library_node__24-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5702,
+"t_range_s": 0.04022808,
+"t_coal_s": 0.01022808
+},
+{
+"image": "base__library_node__24-slim",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 2442,
+"t_range_s": 0.04509768,
+"t_coal_s": 0.01009768
+},
+{
+"image": "base__library_openjdk__21-slim-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2644,
+"t_range_s": 0.040105760000000004,
+"t_coal_s": 0.01010576
+},
+{
+"image": "base__library_openjdk__24-slim-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2658,
+"t_range_s": 0.04010632,
+"t_coal_s": 0.01010632
+},
+{
+"image": "base__library_perl__5.34-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2652,
+"t_range_s": 0.04010608,
+"t_coal_s": 0.01010608
+},
+{
+"image": "base__library_perl__5.36-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2534,
+"t_range_s": 0.04010136,
+"t_coal_s": 0.01010136
+},
+{
+"image": "base__library_perl__5.38-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_perl__5.40-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_php__8.1-cli-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2972,
+"t_range_s": 0.04011888,
+"t_coal_s": 0.01011888
+},
+{
+"image": "base__library_php__8.2-cli-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2974,
+"t_range_s": 0.04011896,
+"t_coal_s": 0.01011896
+},
+{
+"image": "base__library_php__8.3-cli-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2974,
+"t_range_s": 0.04011896,
+"t_coal_s": 0.01011896
+},
+{
+"image": "base__library_python__3.10-slim-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2390,
+"t_range_s": 0.0400956,
+"t_coal_s": 0.0100956
+},
+{
+"image": "base__library_python__3.11-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5817,
+"t_range_s": 0.04023268,
+"t_coal_s": 0.010232680000000001
+},
+{
+"image": "base__library_python__3.11-slim-bookworm",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 4206,
+"t_range_s": 0.04516824,
+"t_coal_s": 0.01016824
+},
+{
+"image": "base__library_python__3.12-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5819,
+"t_range_s": 0.04023276,
+"t_coal_s": 0.01023276
+},
+{
+"image": "base__library_python__3.12-slim-bookworm",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 4206,
+"t_range_s": 0.04516824,
+"t_coal_s": 0.01016824
+},
+{
+"image": "base__library_python__3.13-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5816,
+"t_range_s": 0.04023264,
+"t_coal_s": 0.01023264
+},
+{
+"image": "base__library_python__3.13-slim-bookworm",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 4120,
+"t_range_s": 0.0451648,
+"t_coal_s": 0.0101648
+},
+{
+"image": "base__library_python__3.9-slim",
+"class": "base",
+"n_files": 7,
+"clen_bytes": 2160,
+"t_range_s": 0.035086400000000004,
+"t_coal_s": 0.0100864
+},
+{
+"image": "base__library_rockylinux__8.9",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 695437,
+"t_range_s": 0.07281747999999999,
+"t_coal_s": 0.03781748
+},
+{
+"image": "base__library_rockylinux__9.0",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 4035,
+"t_range_s": 0.0401614,
+"t_coal_s": 0.010161400000000001
+},
+{
+"image": "base__library_rockylinux__9.1",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3879,
+"t_range_s": 0.04015516,
+"t_coal_s": 0.01015516
+},
+{
+"image": "base__library_rockylinux__9.2",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 3879,
+"t_range_s": 0.04015516,
+"t_coal_s": 0.01015516
+},
+{
+"image": "base__library_rockylinux__9.3",
+"class": "base",
+"n_files": 9,
+"clen_bytes": 695363,
+"t_range_s": 0.07281452,
+"t_coal_s": 0.03781452
+},
+{
+"image": "base__library_ruby__3.0-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2919,
+"t_range_s": 0.04011676,
+"t_coal_s": 0.01011676
+},
+{
+"image": "base__library_ruby__3.1-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2280,
+"t_range_s": 0.0400912,
+"t_coal_s": 0.0100912
+},
+{
+"image": "base__library_ruby__3.2-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5715,
+"t_range_s": 0.0402286,
+"t_coal_s": 0.010228600000000001
+},
+{
+"image": "base__library_ruby__3.3-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5717,
+"t_range_s": 0.04022868,
+"t_coal_s": 0.01022868
+},
+{
+"image": "base__library_rust__1.70-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5675,
+"t_range_s": 0.040227,
+"t_coal_s": 0.010227
+},
+{
+"image": "base__library_rust__1.72-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5681,
+"t_range_s": 0.04022724,
+"t_coal_s": 0.01022724
+},
+{
+"image": "base__library_rust__1.73-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_rust__1.74-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_rust__1.75-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_rust__1.76-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_rust__1.77-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_rust__1.78-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_rust__1.79-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_rust__1.80-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_rust__1.81-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_rust__1.82-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_rust__1.83-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_rust__1.84-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_rust__1.85-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_rust__1.86-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_rust__1.87-bookworm",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 5682,
+"t_range_s": 0.040227280000000004,
+"t_coal_s": 0.01022728
+},
+{
+"image": "base__library_user__22.04",
+"class": "base",
+"n_files": 7,
+"clen_bytes": 2269,
+"t_range_s": 0.035090760000000006,
+"t_coal_s": 0.01009076
+},
+{
+"image": "base__library_user__23.10",
+"class": "base",
+"n_files": 7,
+"clen_bytes": 2102,
+"t_range_s": 0.035084080000000004,
+"t_coal_s": 0.01008408
+},
+{
+"image": "base__library_user__24.04",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 693647,
+"t_range_s": 0.06774588000000001,
+"t_coal_s": 0.03774588
+},
+{
+"image": "base__library_user__24.10",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 693655,
+"t_range_s": 0.0677462,
+"t_coal_s": 0.0377462
+},
+{
+"image": "base__library_user__25.04",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 693557,
+"t_range_s": 0.06774228,
+"t_coal_s": 0.03774228
+},
+{
+"image": "base__mcr.microsoft.com_dotnet_aspnet__6.0-bullseye-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2536,
+"t_range_s": 0.04010144,
+"t_coal_s": 0.01010144
+},
+{
+"image": "base__mcr.microsoft.com_dotnet_aspnet__8.0-bookworm-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2259,
+"t_range_s": 0.04009036,
+"t_coal_s": 0.01009036
+},
+{
+"image": "base__mcr.microsoft.com_dotnet_runtime__8.0-bookworm-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2259,
+"t_range_s": 0.04009036,
+"t_coal_s": 0.01009036
+},
+{
+"image": "base__mcr.microsoft.com_dotnet_sdk__6.0-bullseye-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2774,
+"t_range_s": 0.04011096,
+"t_coal_s": 0.01011096
+},
+{
+"image": "base__mcr.microsoft.com_dotnet_sdk__7.0-bookworm-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2494,
+"t_range_s": 0.04009976,
+"t_coal_s": 0.010099760000000001
+},
+{
+"image": "base__mcr.microsoft.com_dotnet_sdk__8.0-bookworm-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2532,
+"t_range_s": 0.04010128,
+"t_coal_s": 0.01010128
+},
+{
+"image": "base__mcr.microsoft.com_dotnet_sdk__9.0-bookworm-slim",
+"class": "base",
+"n_files": 8,
+"clen_bytes": 2532,
+"t_range_s": 0.04010128,
+"t_coal_s": 0.01010128
+}
+],
+"bw_mbps": 200,
+"rtt_ms": 5,
+"skipped": 0
+}

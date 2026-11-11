@@ -1,0 +1,157 @@
+{
+"config": {
+"subset_layers": 45,
+"tar_bytes": 2761014141,
+"comp_bytes": 5331851865,
+"nproc": 48
+},
+"pull_scaling": [
+{
+"mode": "synth",
+"workers": 1,
+"wall_s": 53.35224151611328,
+"agg_mbps": 51.75066806079978,
+"speedup": 1.0,
+"per_layer_p50_s": 0.07321000099182129,
+"per_layer_p99_s": 7.081146240234375,
+"all_verify_ok": true
+},
+{
+"mode": "synth",
+"workers": 2,
+"wall_s": 30.78194761276245,
+"agg_mbps": 89.69588850366507,
+"speedup": 1.7332315091717263,
+"per_layer_p50_s": 0.07047653198242188,
+"per_layer_p99_s": 7.300455331802368,
+"all_verify_ok": true
+},
+{
+"mode": "synth",
+"workers": 4,
+"wall_s": 17.83699131011963,
+"agg_mbps": 154.79147200310445,
+"speedup": 2.9911009423346218,
+"per_layer_p50_s": 0.07269716262817383,
+"per_layer_p99_s": 7.511711359024048,
+"all_verify_ok": true
+},
+{
+"mode": "synth",
+"workers": 8,
+"wall_s": 14.788205862045288,
+"agg_mbps": 186.70379400697203,
+"speedup": 3.607756208820749,
+"per_layer_p50_s": 0.07881546020507812,
+"per_layer_p99_s": 7.713027000427246,
+"all_verify_ok": true
+},
+{
+"mode": "synth",
+"workers": 16,
+"wall_s": 13.749962568283081,
+"agg_mbps": 200.80157507983384,
+"speedup": 3.8801735823761754,
+"per_layer_p50_s": 0.08228874206542969,
+"per_layer_p99_s": 7.7826714515686035,
+"all_verify_ok": true
+},
+{
+"mode": "b4",
+"workers": 1,
+"wall_s": 119.13548421859741,
+"agg_mbps": 23.1754137661783,
+"speedup": 1.0,
+"per_layer_p50_s": 0.06344103813171387,
+"per_layer_p99_s": 17.578908681869507,
+"all_verify_ok": true
+},
+{
+"mode": "b4",
+"workers": 2,
+"wall_s": 70.92897772789001,
+"agg_mbps": 38.92646178536901,
+"speedup": 1.6796447380878026,
+"per_layer_p50_s": 0.062328338623046875,
+"per_layer_p99_s": 17.469921350479126,
+"all_verify_ok": true
+},
+{
+"mode": "b4",
+"workers": 4,
+"wall_s": 39.95293879508972,
+"agg_mbps": 69.10665959169273,
+"speedup": 2.9818953952203224,
+"per_layer_p50_s": 0.0650629997253418,
+"per_layer_p99_s": 17.954335927963257,
+"all_verify_ok": true
+},
+{
+"mode": "b4",
+"workers": 8,
+"wall_s": 35.23649215698242,
+"agg_mbps": 78.35666866892937,
+"speedup": 3.3810256619142396,
+"per_layer_p50_s": 0.07806992530822754,
+"per_layer_p99_s": 18.31706666946411,
+"all_verify_ok": true
+},
+{
+"mode": "b4",
+"workers": 16,
+"wall_s": 32.73519682884216,
+"agg_mbps": 84.34389918093724,
+"speedup": 3.6393697230996978,
+"per_layer_p50_s": 0.07857227325439453,
+"per_layer_p99_s": 18.102967500686646,
+"all_verify_ok": true
+}
+],
+"b1_read": [
+{
+"workers": 1,
+"wall_s": 53.06048822402954,
+"agg_mbps": 100.48629485820223
+},
+{
+"workers": 4,
+"wall_s": 54.52057218551636,
+"agg_mbps": 97.79522942014228
+},
+{
+"workers": 8,
+"wall_s": 54.24816536903381,
+"agg_mbps": 98.28630754107589
+}
+],
+"ingest_scaling": [
+{
+"workers": 1,
+"wall_s": 272.9891345500946,
+"agg_mbps": 8.906627752811993,
+"all_ok": true,
+"store_bytes": 1401923184
+},
+{
+"workers": 2,
+"wall_s": 148.45538902282715,
+"agg_mbps": 16.37806898088513,
+"all_ok": true,
+"store_bytes": 1401945905
+},
+{
+"workers": 4,
+"wall_s": 78.82373571395874,
+"agg_mbps": 30.846198546378027,
+"all_ok": true,
+"store_bytes": 1401933190
+},
+{
+"workers": 8,
+"wall_s": 61.9779314994812,
+"agg_mbps": 39.23029606143523,
+"all_ok": true,
+"store_bytes": 1402002629
+}
+]
+}

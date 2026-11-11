@@ -1,0 +1,63 @@
+{
+"images": [
+{
+"repo": "library/nginx",
+"tag": "1.27.4",
+"layers": 7,
+"comp_mb": 72.186429,
+"wall_s": 8.587908744812012,
+"mbps": 8.405588734697268,
+"dedup_hit_bytes_frac": 1.0
+},
+{
+"repo": "library/postgres",
+"tag": "17.4",
+"layers": 14,
+"comp_mb": 156.287572,
+"wall_s": 18.46436381340027,
+"mbps": 8.464281443944273,
+"dedup_hit_bytes_frac": 1.0
+},
+{
+"repo": "library/memcached",
+"tag": "1.6.38",
+"layers": 6,
+"comp_mb": 33.026858,
+"wall_s": 4.222642183303833,
+"mbps": 7.821372630289855,
+"dedup_hit_bytes_frac": 1.0
+},
+{
+"repo": "library/python",
+"tag": "3.13.2-slim-bookworm",
+"layers": 4,
+"comp_mb": 44.322431,
+"wall_s": 5.343326568603516,
+"mbps": 8.294913371088176,
+"dedup_hit_bytes_frac": 1.0
+},
+{
+"repo": "library/golang",
+"tag": "1.25.1-bookworm",
+"layers": 7,
+"comp_mb": 289.35156,
+"wall_s": 35.94678854942322,
+"mbps": 8.049441178929538,
+"dedup_hit_bytes_frac": 1.0
+},
+{
+"repo": "library/alpine",
+"tag": "3.22.1",
+"layers": 1,
+"comp_mb": 3.799689,
+"wall_s": 0.457350492477417,
+"mbps": 8.308046153875347,
+"dedup_hit_bytes_frac": 1.0
+}
+],
+"summary": {
+"n": 6,
+"median_mbps": 8.301479762481762,
+"mean_hit_frac": 1.0
+}
+}
